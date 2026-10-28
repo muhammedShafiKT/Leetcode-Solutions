@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammedShafiKT/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/muhammedShafiKT/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0819-most-common-word](https://github.com/muhammedShafiKT/Leetcode-Solutions/tree/master/0819-most-common-word) |
 ## Prefix Sum
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/muhammedShafiKT/Leetcode-Solutions/tree/master/0819-most-common-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammedShafiKT/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
